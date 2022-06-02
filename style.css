@@ -1,0 +1,8 @@
+.nav-item{
+    padding-right: 1vw;
+}
+
+.active {
+    background-color: rgb(227, 29, 29);
+    color: rgb(255, 255, 255);
+  }
